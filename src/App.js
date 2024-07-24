@@ -20,7 +20,7 @@ function App() {
         <Header />
         <Routes>
           <Route
-            path="/"
+            path="/react-tailwind-marketing-ui"
             element={
               <>
                 <Hero />
