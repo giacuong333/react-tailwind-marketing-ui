@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { useReducer } from "react";
 import { CiLocationOn, CiMail } from "react-icons/ci";
 import { FiPhone } from "react-icons/fi";
 import Button from "../Button";
