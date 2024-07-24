@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-tailwind-marketing-ui/static/css/main.7263509b.css",
-    "main.js": "/react-tailwind-marketing-ui/static/js/main.5c9d3ab6.js",
+    "main.css": "/react-tailwind-marketing-ui/static/css/main.34a2b240.css",
+    "main.js": "/react-tailwind-marketing-ui/static/js/main.d50613aa.js",
     "static/media/logo.png": "/react-tailwind-marketing-ui/static/media/logo.ad84e922a9add8c60b27.png",
     "static/media/blog2.jpg": "/react-tailwind-marketing-ui/static/media/blog2.7562b1a57f2e0f5d200f.jpg",
     "static/media/blog4.jpg": "/react-tailwind-marketing-ui/static/media/blog4.2042e1037bc5c0d1545b.jpg",
@@ -11,11 +11,11 @@
     "static/media/about2.jpg": "/react-tailwind-marketing-ui/static/media/about2.d428a0e5b3f9328fd2b5.jpg",
     "static/media/about3.jpg": "/react-tailwind-marketing-ui/static/media/about3.c88d6204353ab1d17ddf.jpg",
     "index.html": "/react-tailwind-marketing-ui/index.html",
-    "main.7263509b.css.map": "/react-tailwind-marketing-ui/static/css/main.7263509b.css.map",
-    "main.5c9d3ab6.js.map": "/react-tailwind-marketing-ui/static/js/main.5c9d3ab6.js.map"
+    "main.34a2b240.css.map": "/react-tailwind-marketing-ui/static/css/main.34a2b240.css.map",
+    "main.d50613aa.js.map": "/react-tailwind-marketing-ui/static/js/main.d50613aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.7263509b.css",
-    "static/js/main.5c9d3ab6.js"
+    "static/css/main.34a2b240.css",
+    "static/js/main.d50613aa.js"
   ]
 }
